@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "828566439667",
+    "firebase_url": "https://liveattendance-336301-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "liveattendance-336301",
+    "storage_bucket": "liveattendance-336301.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828566439667:android:7729de479d0e2082061986",
+        "android_client_info": {
+          "package_name": "com.elthobhy.attendanceapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828566439667-v8dicucvec6lbqgqqu5g0ufd0et8kmrc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGGK6se4xHqXfNJSbiw9uUHXIoMw3Rt34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828566439667-v8dicucvec6lbqgqqu5g0ufd0et8kmrc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

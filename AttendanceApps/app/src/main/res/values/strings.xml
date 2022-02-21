@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Attendance Apps</string>
+    <string name="check_in">Check In</string>
+    <string name="scanning">Scanning...</string>
+    <string name="check_in_success">Check In Success</string>
+    <string name="please_input_your_name">Please Input Your name</string>
+    <string name="name">Name</string>
+</resources>
